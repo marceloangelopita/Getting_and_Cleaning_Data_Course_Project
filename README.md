@@ -44,7 +44,7 @@ This will generate the result at "result.txt".
    
 The result of this script is a tiny dataset with the average of each considered measurement for each activity and subject of the original dataset.
 
-### Cookbook.md
+### Codebook.md
 
 Explain each variable of the result dataset.
 
